@@ -1,5 +1,21 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Worklog:
+PROCESS:
+Step 1: Search for recipes
+Step 2: Adding recipes adds to a cart
+Step 3: Consolidate grocery list, confirm if we need everything in a checklist
+Step 4: Arrange delivery date
+Step 5: Ordering API
+
+TODO:
+* Configure db to store recipes
+* add recipes to store
+* Figure out posting new recipes/reviews
+* Social element
+
+
+
 ## Getting Started
 
 First, run the development server:
